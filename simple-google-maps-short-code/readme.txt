@@ -1,13 +1,13 @@
 === Simple Shortcode for Google Maps ===
 Contributors: alanfuller, fullworks
-Donate Link: https://www.paypal.com/donate/?hosted_button_id=UGRBY5CHSD53Q
-Author URI: https://fullworks.net
+Donate link: https://ko-fi.com/wpalan
+Author URI: https://fullworks.net start
 Contributors: fullworks,alanfuller
-Tags: google maps, google map, google maps shortcode, gmaps, maps, map, gmap, map markers, google maps plugin, map plugin, map builder
+Tags: google maps, google maps shortcode, gmaps, maps, google maps plugin
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Tested up to: 6.6
-Stable tag: 1.5.5
+Tested up to: 6.7
+Stable tag: 1.6
 
 A simple shortcode for embedding Google Maps in any WordPress post, page or widget.
 
@@ -134,12 +134,12 @@ For developer documentation on filters visit here [https://fullworksplugins.com/
 3. Added [pw_map address="your address here" key="YOUR API KEY"] to any post or page.
 
 == Changelog ==
-= 1.5.5 =
-* allow . (dot) in addresses so coordinates can be used
+= 1.6 =
+* escape output to better protect against CSRF ans XSS exploits
 
 = 1.5.4 =
 * add filters for developers
 * add option to disable zoom
 * remove special characters from address that can break Google
 
-[Full Change History](https://plugins.svn.wordpress.org/simple-google-maps-short-code/trunk/changelog.txt)
+[Full Change History](https://plugins.trac.wordpress.org/browser/simple-google-maps-shortcode/trunk/changelog.txt)
