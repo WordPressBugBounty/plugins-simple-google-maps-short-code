@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'alanef/free_plugin_lib' => array(
-            'pretty_version' => 'v1.0.0',
-            'version' => '1.0.0.0',
-            'reference' => '43f4f538d247dd696a47ed08e4a5b4dde15c7daa',
+            'pretty_version' => 'v1.0.1',
+            'version' => '1.0.1.0',
+            'reference' => 'ed52c33c73999a1fe1ee5a1b00581b9462111ac8',
             'type' => 'library',
             'install_path' => __DIR__ . '/../alanef/free_plugin_lib',
             'aliases' => array(),
