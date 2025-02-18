@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'AlanEFPluginDonation\\' => array($vendorDir . '/alanef/plugindonation_lib'),
+    'Fullworks_Free_Plugin_Lib\\' => array($vendorDir . '/alanef/free_plugin_lib/src'),
 );

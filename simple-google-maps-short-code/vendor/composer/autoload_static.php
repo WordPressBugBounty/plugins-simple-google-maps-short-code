@@ -7,16 +7,16 @@ namespace Composer\Autoload;
 class ComposerStaticInit04b1cfb93b3690d0928d8e97d9ee135a
 {
     public static $prefixLengthsPsr4 = array (
-        'A' => 
+        'F' => 
         array (
-            'AlanEFPluginDonation\\' => 21,
+            'Fullworks_Free_Plugin_Lib\\' => 26,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'AlanEFPluginDonation\\' => 
+        'Fullworks_Free_Plugin_Lib\\' => 
         array (
-            0 => __DIR__ . '/..' . '/alanef/plugindonation_lib',
+            0 => __DIR__ . '/..' . '/alanef/free_plugin_lib/src',
         ),
     );
 
