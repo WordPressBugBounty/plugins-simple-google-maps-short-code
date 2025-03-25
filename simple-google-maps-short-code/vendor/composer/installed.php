@@ -3,7 +3,7 @@
         'name' => 'fullworks/simple-google-maps-shortcode-project',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '9acb621fa18d9647915a212b96287ce583757b0d',
+        'reference' => '089c5bd3ec161b0d493fc56495e0412beb0ca2fa',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -22,7 +22,7 @@
         'fullworks/simple-google-maps-shortcode-project' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '9acb621fa18d9647915a212b96287ce583757b0d',
+            'reference' => '089c5bd3ec161b0d493fc56495e0412beb0ca2fa',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
