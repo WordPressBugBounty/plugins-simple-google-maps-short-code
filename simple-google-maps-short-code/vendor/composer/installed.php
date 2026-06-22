@@ -3,11 +3,11 @@
         'name' => 'fullworks/simple-google-maps-shortcode-project',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '089c5bd3ec161b0d493fc56495e0412beb0ca2fa',
+        'reference' => 'df42da978fcccfd9a8b31f33c26ffdfefb9e8424',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'dev' => true,
+        'dev' => false,
     ),
     'versions' => array(
         'alanef/free_plugin_lib' => array(
@@ -22,7 +22,7 @@
         'fullworks/simple-google-maps-shortcode-project' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '089c5bd3ec161b0d493fc56495e0412beb0ca2fa',
+            'reference' => 'df42da978fcccfd9a8b31f33c26ffdfefb9e8424',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

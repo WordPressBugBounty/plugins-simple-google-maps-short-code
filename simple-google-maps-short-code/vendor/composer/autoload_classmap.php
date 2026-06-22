@@ -7,4 +7,8 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
+    'Fullworks_Free_Plugin_Lib\\Classes\\Advert' => $vendorDir . '/alanef/free_plugin_lib/src/Classes/Advert.php',
+    'Fullworks_Free_Plugin_Lib\\Classes\\Email' => $vendorDir . '/alanef/free_plugin_lib/src/Classes/Email.php',
+    'Fullworks_Free_Plugin_Lib\\Classes\\Security' => $vendorDir . '/alanef/free_plugin_lib/src/Classes/Security.php',
+    'Fullworks_Free_Plugin_Lib\\Main' => $vendorDir . '/alanef/free_plugin_lib/src/Main.php',
 );

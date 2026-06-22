@@ -50,6 +50,6 @@
             "install-path": "../alanef/free_plugin_lib"
         }
     ],
-    "dev": true,
+    "dev": false,
     "dev-package-names": []
 }
